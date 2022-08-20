@@ -1,0 +1,56 @@
+[
+
+    {
+        "id": -1,
+        "title": "Teachers and stuff",
+        "icon": "TEACHER"
+    },
+
+    {
+        "id": 0,
+        "title": "Technologies",
+        "icon": "KEY"
+    },
+    {
+        "id": 1,
+        "title": "Academic Body",
+        "icon": "TEAM"
+    },
+    
+    {
+        "id": 2,
+        "title": "Office Section",
+        "icon": "WORK"
+    },
+    {
+        "id": 3,
+        "title": "Account Section",
+        "icon": "WORK"
+    },
+    {
+        "id": 4,
+        "title": "Control Room Section",
+        "icon": "SECURITY"
+    },
+    {
+        "id": 5,
+        "title": "Security Section",
+        "icon": "SHIELD"
+    },
+    {
+        "id": 6,
+        "title": "IT Section",
+        "icon": "SMARTPHONE"
+    },
+    {
+        "id": 7,
+        "title": "Rover Scout",
+        "icon": "SMARTPHONE"
+    },
+    {
+        "id": 8,
+        "title": "Community",
+        "icon": "COMMUNITY"
+    }
+    
+]

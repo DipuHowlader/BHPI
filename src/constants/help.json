@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "Image": "DATA_SERVICE"
+    },
+    {
+        "id": 1,
+        "Image": "EMERGENCY_SERVICE"
+    },
+    {
+        "id": 3,
+        "Image": "EMERGENCY_HELP"
+    },
+    {
+        "id": 4,
+        "Image": "DUDOK"
+    },
+    {
+        "id": 5,
+        "Image": "DIASTER_DISTRESS_HELPLINE"
+    },
+    {
+        "id": 6,
+        "Image": "BOKWASS"
+    }
+]

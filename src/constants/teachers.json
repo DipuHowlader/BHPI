@@ -1,0 +1,82 @@
+[
+  {
+    "id": 0,
+    "name": "Engr. Humayun Kabir Khan",
+    "position": "Principal",
+    "technology": "Civil Technology",
+    "number" : "019........",
+    "image": "https://api.bhpi.gov.bd/storage/avatar/mWraLqT23GQNUTfmxPzp0LyNJ1goUGYQEkClPbPX.jpg"
+  },
+  {
+    "id": 1,
+    "name": "Mir Monjur Morshed",
+    "position": "Cheif Instructor & Academic in-Charge",
+    "technology": "Non-Tech",
+    "number" : "01711160119",
+    "image": "https://api.bhpi.gov.bd/storage/avatar/zl0I5R376ZSD77ySsNvcMiRMIUs9uHIH1OnEJD5E.jpg"
+  },
+  {
+    "id": 2,
+    "name": "A.K.M Towfiqul Islam",
+    "position": "Instructor & Head of the Department",
+    "technology": "Computer Technology",
+    "number" : "01711160119",
+    "image": "https://api.bhpi.gov.bd/storage/avatar/Y5zoIEwpzwJWqUDGYenTLcoZDyC1VDE2pkdgp3Fw.jpg"
+  },
+
+  {
+    "id": 3,
+    "name": "Md. Abu Darda Mali",
+    "position": "nstructor & Head of the Department",
+    "technology": "Electronics Technology",
+    "number" : "01720002219",
+    "image": "https://api.bhpi.gov.bd/storage/avatar/O5jGif5tCIr6lpQYavknzZyokns0erFFrqgJP4qR.jpg"
+  },
+
+  {
+    "id": 4,
+    "name": "Md. Mujib Alam",
+    "position": "Instructor & Head of the Department",
+    "technology": "Refrigeration & Air Condition",
+    "number" : "01791967018",
+    "image": "https://api.bhpi.gov.bd/storage/avatar/gVMkB8jo3xV4QLwaH4tFe579pK2Mg2qvQfsoZl16.jpg"
+  },
+
+
+
+  {
+    "id": 9,
+    "name": "Md. Manik Mia",
+    "position": "Instructor",
+    "technology": "Computer Technology",
+    "number" : "01790935600",
+    "image": "https://api.bhpi.gov.bd/storage/avatar/BA1yKXQAlo1G5QINXVrQQFUHEgWiwbGPRuIScpYX.jpg"
+  },
+
+  {
+    "id": 10,
+    "name": "Md. Shahnawaz Khan",
+    "position": "Junior Instructor",
+    "technology": "Non-Tech",
+    "number" : "01726801640",
+    "image": "https://api.bhpi.gov.bd/storage/avatar/tfHW7EDsLbKUVxXU6LNLFkrRK9kyomoQMmd4emnL.jpg"
+  },
+
+  {
+    "id": 11,
+    "name": "Bivash Chandra Das",
+    "position": "Instructor",
+    "technology": "Non-Tech",
+    "number" : "01754938101",
+    "image": "https://api.bhpi.gov.bd/storage/avatar/Cyh5zGIgfu6FOY9asHOX3fsBlVAmMjovR1hR5H1X.jpg"
+  },
+
+  {
+    "id": 12,
+    "name": "Md. Anisar Rahman",
+    "position": "Store keeper",
+    "technology": "General Section",
+    "number" : "01710728568",
+    "image": "https://bootdey.com/img/Content/avatar/avatar4.png"
+  }
+]
